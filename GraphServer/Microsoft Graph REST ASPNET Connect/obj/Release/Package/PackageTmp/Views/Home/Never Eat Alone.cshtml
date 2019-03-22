@@ -1,0 +1,32 @@
+﻿<!--  Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license.
+        See LICENSE in the source repository root for complete license information. -->
+
+@using Resources
+
+@{
+  ViewBag.Title = Resource.App_Name;
+}
+
+<h1>@ViewBag.Title</h1>
+<h2>@Resource.NEA_TheyWantEatToday_Heading</h2>
+    <div class="col-sm-12">
+        @if (ViewBag.Items != null)
+        {
+            foreach (var item in ViewBag.Items)
+            {
+                <label for="user-email-address">@item.fields.Title</label><br />
+            }
+        }
+        @using (Html.BeginForm("RegisterToEat", "Home"))
+        {
+            <input type="submit" value="Je veux manger" />
+        }  
+        <input name="email-address" value="Je veux manger" type="hidden" />
+
+        @using (Html.BeginForm("MatchMe", "Home"))
+        {
+            <input type="submit" value="Trouve moi quelqu'un'" />
+        }
+        <input name="email-address" value="Trouve moi quelqu'un" type="hidden" />
+
+    </div>

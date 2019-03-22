@@ -1,0 +1,46 @@
+﻿@using Resources
+@Styles.Render("~/Content/Site.css")
+
+
+@{
+    ViewBag.Title = "EatMACH";
+}
+
+<h2>EatMACH</h2>
+<div class="buttonContent">
+    @if (!Request.IsAuthenticated)
+    {
+        using (Html.BeginForm("MatchMe", "Home"))
+        {
+            <a href="@Url.Action("SignIn", "Account")" title="Sign in" class="buttonAddMe">
+                @Resource.SignIn
+            </a>
+        }
+    }
+    @if (Request.IsAuthenticated)
+    {
+
+        if (ViewBag.Registration == null || ViewBag.Registration == false)
+        {
+            using (Html.BeginForm("MatchMe", "Home"))
+            {
+                <input class="buttonAddMe" name="MatchMe" type="submit" value="Je veux manger avec un MACH !" />
+            }
+
+        }
+        else
+        {
+            using (Html.BeginForm("RemoveMe", "Home"))
+            {
+                <input class="buttonRemoveMe" name="RemoveMe" type="submit" value="Je ne veux plus manger ce midi" />
+            }
+        }
+
+        if (ViewBag.Message != null)
+        {
+            <p>@ViewBag.Message</p>
+
+        }
+    }
+</div>
+

@@ -1,0 +1,28 @@
+﻿@using Resources
+@Styles.Render("~/Content/Site.css")
+
+
+@{
+    ViewBag.Title = "Test API";
+}
+
+<h2>Test API @ViewBag.API</h2>
+<div class="buttonContent">
+    @if (!Request.IsAuthenticated)
+    {
+
+    }
+    @if (Request.IsAuthenticated)
+    {
+
+        <a href="@Url.Action("GetMe", "Home")" title="GetMe" class="">
+            get me
+        </a><br />
+        <a href="@Url.Action("SendMessage", "Home")" title="GetMessages" class="">
+            post messages
+        </a><br />
+        <br /><br />
+        <textarea title="textAreaAPI" cols="100" rows="6">@ViewBag.Values</textarea>
+    }
+</div>
+

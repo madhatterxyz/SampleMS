@@ -1,0 +1,336 @@
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.csproj.CoreCompileInputs.cache
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.csprojResolveAssemblyReference.cache
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft Graph REST ASPNET Connect.dll.config
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft Graph REST ASPNET Connect.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft Graph REST ASPNET Connect.pdb
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\csc.exe
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\csc.exe.config
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\csc.rsp
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\csi.exe
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\csi.exe.config
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\csi.rsp
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.AppContext.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Console.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.IO.Compression.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Security.Claims.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Threading.Thread.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.ValueTuple.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\vbc.exe
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\vbc.exe.config
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\vbc.rsp
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\VBCSCompiler.exe
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Antlr3.Runtime.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Identity.Client.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Office.Client.Policy.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.ProjectServer.Client.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.Search.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Newtonsoft.Json.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Owin.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.Web.Helpers.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.Web.Mvc.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.Web.Optimization.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.Web.Razor.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.Razor.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\WebGrease.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Antlr3.Runtime.pdb
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Identity.Client.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\Newtonsoft.Json.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.Web.Helpers.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.Web.Mvc.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.Web.Razor.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.Razor.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\bin\System.Web.Optimization.xml
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.csproj.CopyComplete
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.dll
+C:\Users\lugirard\Documents\GitHub\aspnet-connect-rest-sample\Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.pdb
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.csproj.CoreCompileInputs.cache
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft Graph REST ASPNET Connect.dll.config
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft Graph REST ASPNET Connect.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft Graph REST ASPNET Connect.pdb
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\csc.exe
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\csc.exe.config
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\csc.rsp
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\csi.exe
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\csi.exe.config
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\csi.rsp
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.AppContext.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Console.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.IO.Compression.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Security.Claims.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Threading.Thread.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.ValueTuple.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\vbc.exe
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\vbc.exe.config
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\vbc.rsp
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\VBCSCompiler.exe
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Win32.Primitives.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\netstandard.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.AppContext.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Collections.Concurrent.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Collections.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Collections.NonGeneric.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Collections.Specialized.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.ComponentModel.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.ComponentModel.Primitives.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Console.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Data.Common.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Diagnostics.Contracts.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Diagnostics.Debug.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Diagnostics.Process.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Diagnostics.StackTrace.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Diagnostics.Tools.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Diagnostics.TraceSource.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Diagnostics.Tracing.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Drawing.Primitives.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Dynamic.Runtime.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Globalization.Calendars.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Globalization.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Globalization.Extensions.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.IO.Compression.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.IO.Compression.ZipFile.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.IO.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.IO.FileSystem.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.IO.IsolatedStorage.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.IO.Pipes.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Linq.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Linq.Expressions.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Linq.Parallel.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Linq.Queryable.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Net.Http.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Net.NameResolution.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Net.NetworkInformation.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Net.Ping.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Net.Primitives.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Net.Requests.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Net.Security.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Net.Sockets.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Net.WebHeaderCollection.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Net.WebSockets.Client.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Net.WebSockets.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.ObjectModel.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Reflection.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Reflection.Extensions.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Reflection.Primitives.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Resources.Reader.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Resources.ResourceManager.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Resources.Writer.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Runtime.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Runtime.Extensions.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Runtime.Handles.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Runtime.InteropServices.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Runtime.Numerics.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Runtime.Serialization.Json.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Security.Claims.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Security.Cryptography.Csp.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Security.Principal.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Security.SecureString.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Text.Encoding.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Text.Encoding.Extensions.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Text.RegularExpressions.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Threading.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Threading.Overlapped.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Threading.Tasks.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Threading.Thread.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Threading.ThreadPool.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Threading.Timer.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.ValueTuple.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Xml.ReaderWriter.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Xml.XDocument.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Xml.XmlDocument.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Xml.XmlSerializer.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Xml.XPath.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Xml.XPath.XDocument.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Antlr3.Runtime.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\ClassLibrary1.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Identity.Client.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Office.Client.Policy.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.ProjectServer.Client.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.Search.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Newtonsoft.Json.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Owin.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Web.Helpers.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Web.Mvc.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Web.Optimization.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Web.Razor.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.Razor.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\WebGrease.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\ClassLibrary1.pdb
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Antlr3.Runtime.pdb
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Identity.Client.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\Newtonsoft.Json.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Web.Helpers.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Web.Mvc.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Web.Razor.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Web.WebPages.Razor.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\bin\System.Web.Optimization.xml
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.csproj.CopyComplete
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.dll
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.pdb
+C:\Users\lugirard\source\repos\Graph API Project\Microsoft Graph REST ASPNET Connect\obj\Debug\Microsoft Graph REST ASPNET Connect.csprojAssemblyReference.cache
