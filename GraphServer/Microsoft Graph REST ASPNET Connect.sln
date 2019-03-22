@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft Graph REST ASPNET Connect", "Microsoft Graph REST ASPNET Connect\Microsoft Graph REST ASPNET Connect.csproj", "{374EF207-F626-4609-98B6-0BBBF939C59C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{254065DD-E79A-4214-B587-D8A03A7834D2} = {254065DD-E79A-4214-B587-D8A03A7834D2}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{254065DD-E79A-4214-B587-D8A03A7834D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374EF207-F626-4609-98B6-0BBBF939C59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374EF207-F626-4609-98B6-0BBBF939C59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374EF207-F626-4609-98B6-0BBBF939C59C}.Debug|x86.ActiveCfg = Debug|x86
+		{374EF207-F626-4609-98B6-0BBBF939C59C}.Debug|x86.Build.0 = Debug|x86
+		{374EF207-F626-4609-98B6-0BBBF939C59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374EF207-F626-4609-98B6-0BBBF939C59C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374EF207-F626-4609-98B6-0BBBF939C59C}.Release|x86.ActiveCfg = Release|x86
+		{374EF207-F626-4609-98B6-0BBBF939C59C}.Release|x86.Build.0 = Release|x86
+		{254065DD-E79A-4214-B587-D8A03A7834D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254065DD-E79A-4214-B587-D8A03A7834D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254065DD-E79A-4214-B587-D8A03A7834D2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{254065DD-E79A-4214-B587-D8A03A7834D2}.Debug|x86.Build.0 = Debug|Any CPU
+		{254065DD-E79A-4214-B587-D8A03A7834D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254065DD-E79A-4214-B587-D8A03A7834D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{254065DD-E79A-4214-B587-D8A03A7834D2}.Release|x86.ActiveCfg = Release|Any CPU
+		{254065DD-E79A-4214-B587-D8A03A7834D2}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28166CBB-A65A-4C0D-BEF4-ED84792E5101}
+	EndGlobalSection
+EndGlobal
