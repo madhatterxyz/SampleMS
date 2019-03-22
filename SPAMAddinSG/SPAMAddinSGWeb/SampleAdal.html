@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Minimal sample using ADAL.JS</title>
+    <meta charset="utf-8" />
+    <style type="text/css">
+        body {
+            font-family: Tahoma;
+            padding: 3em;
+        }
+    </style>
+    <script src="https://secure.aadcdn.microsoftonline-p.com/lib/1.0.11/js/adal.min.js"></script>
+</head>
+<body>
+    <p>
+        A minimal sample app using ADAL.JS and vanilla JavaScript to obtain
+        an access token from Azure Active Directory and make an API request.
+    </p>
+    <p>
+        <a href="#" onclick="authContext.login(); return false;">Log in</a> |
+        <a href="#" onclick="authContext.logOut(); return false;">Log out</a>
+    </p>
+    <p id="username"></p>
+    <pre id="api_response"></pre>
+
+    <script type="text/javascript">
+
+            // Set up ADAL
+            var authContext = new AuthenticationContext({
+                clientId: '<-----ClienID----->',
+                postLogoutRedirectUri: 'https://localhost:44382/'
+            });
+
+            // Make an AJAX request to the Microsoft Graph API and print the response as JSON.
+            var getCurrentUser = function (access_token) {
+                document.getElementById('api_response').textContent = 'Calling API...';
+                var xhr = new XMLHttpRequest();
+                xhr.open('GET', 'https://graph.microsoft.com/v1.0/me', true);
+                xhr.setRequestHeader('Authorization', 'Bearer ' + access_token);
+                xhr.onreadystatechange = function () {
+                    if (xhr.readyState === 4 && xhr.status === 200) {
+                        // Do something with the response
+                        document.getElementById('api_response').textContent =
+                            JSON.stringify(JSON.parse(xhr.responseText), null, '  ');
+                    } else {
+                        // TODO: Do something with the error (or non-200 responses)
+                        document.getElementById('api_response').textContent =
+                            'ERROR:\n\n' + xhr.responseText;
+                    }
+                };
+                xhr.send();
+            }
+
+            if (authContext.isCallback(window.location.hash)) {
+
+                // Handle redirect after token requests
+                authContext.handleWindowCallback();
+                var err = authContext.getLoginError();
+                if (err) {
+                    // TODO: Handle errors signing in and getting tokens
+                    document.getElementById('api_response').textContent =
+                        'ERROR:\n\n' + err;
+                }
+
+            } else {
+
+                // If logged in, get access token and make an API request
+                var user = authContext.getCachedUser();
+                if (user) {
+
+                    document.getElementById('username').textContent = 'Signed in as: ' + user.userName;
+                    document.getElementById('api_response').textContent = 'Getting access token...';
+
+                    // Get an access token to the Microsoft Graph API
+                    authContext.acquireToken(
+                        'https://graph.microsoft.com',
+                        function (error, token) {
+
+                            if (error || !token) {
+                                // TODO: Handle error obtaining access token
+                                document.getElementById('api_response').textContent =
+                                    'ERROR:\n\n' + error;
+                                return;
+                            }
+
+                            // Use the access token
+                            getCurrentUser(token);
+                        }
+                    );
+
+                } else {
+                    document.getElementById('username').textContent = 'Not signed in.';
+                }
+            }
+    </script>
+</body>
+</html>
