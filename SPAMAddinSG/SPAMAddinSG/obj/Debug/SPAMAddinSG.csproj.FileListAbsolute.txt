@@ -1,0 +1,8 @@
+C:\Users\lugirard\source\repos\SPAMAddinSG\SPAMAddinSG\obj\Debug\SPAMAddinSG.csprojAssemblyReference.cache
+C:\Users\lugirard\source\repos\SPAMAddinSG\SPAMAddinSG\obj\Debug\SPAMAddinSG.csproj.CoreCompileInputs.cache
+C:\Users\lugirard\source\repos\SPAMAddinSG\SPAMAddinSG\bin\Debug\SPAMAddinSG.dll.config
+C:\Users\lugirard\source\repos\SPAMAddinSG\SPAMAddinSG\bin\Debug\ApplicationInsights.config
+C:\Users\lugirard\source\repos\SPAMAddinSG\SPAMAddinSG\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\lugirard\source\repos\SPAMAddinSG\SPAMAddinSG\bin\Debug\MsalRestClient.dll
+C:\Users\lugirard\source\repos\SPAMAddinSG\SPAMAddinSG\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\lugirard\source\repos\SPAMAddinSG\SPAMAddinSG\obj\Debug\SPAMAddinSG.csproj.CopyComplete

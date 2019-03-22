@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\SPAMAddinSGManifest.xml
+C:\Users\lugirard\source\repos\SPAMAddinSG\SPAMAddinSG\bin\Debug\SPAMAddinSG.debugapp
